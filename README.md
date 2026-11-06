@@ -4,7 +4,7 @@ I am currently at the second year of High School and doing a course about Comput
 I did 1 year of english course in Wizard and keep praticing.
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,docker,vscode&perline=5" alt="Python, Java, MySQL, VS Code" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,vscode&perline=5" alt="Python, Java, MySQL, VS Code" />
 </div>
 
 # Projects
