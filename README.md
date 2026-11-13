@@ -13,4 +13,4 @@ I did 1 year of english course in Wizard and keep praticing.
 </div>
 
 # Contact
-- <div><img src="https://logos.hunter.io/linkedin.com"></div>
+- <div><img src="https://logos.hunter.io/linkedin.com" onclick="example.com"></div>
