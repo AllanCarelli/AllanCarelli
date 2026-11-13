@@ -14,4 +14,4 @@ I did 1 year of english course in Wizard and keep praticing.
 
 # Contact
 <a href="https://www.linkedin.com/in/allan-carelli-nunes" target="_blank" rel="noopener noreferrer"><img src="https://logos.hunter.io/linkedin.com" width="64" height="64" alt="LinkedIn"/></a>
-<a href="mailto:allan.nunes.carelli@gmail.com"><img src="https://logos.hunter.io/gmail.com" width="64" height="64" alt="Enviar e-mail" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=allan.nunes.carelli@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="64" height="64" alt="Enviar e-mail" /></a>
