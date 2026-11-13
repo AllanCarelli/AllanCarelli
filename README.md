@@ -17,5 +17,5 @@ I did 1 year of english course in Wizard and keep praticing.
   <img src="https://logos.hunter.io/linkedin.com" width="64" height="64" alt="LinkedIn" />
 </a>
 <a href="mailto:allan.nunes.carelli@gmail.com">
-  <img src="https://logos.hunter.io/mail.google.com" width="32" height="32" alt="Enviar e-mail" />
+  <img src="https://logos.hunter.io/gmail.com" width="64" height="64" alt="Enviar e-mail" />
 </a>
