@@ -13,6 +13,6 @@ I did 1 year of english course in Wizard and keep praticing.
 </div>
 
 # Contact
-<a href="https://www.linkedin.com/in/seu-usuario" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/allan-carelli-nunes" target="_blank" rel="noopener noreferrer">
+  <img src="https://logos.hunter.io/linkedin.com" width="32" height="32" alt="LinkedIn" />
 </a>
