@@ -12,6 +12,10 @@ I did 1 year of english course in Wizard and keep praticing.
 <img src="https://skillicons.dev/icons?i=python,java,mysql,vscode&perline=5" alt="Python, Java, MySQL, VS Code" />
 </div>
 
+<img src="https://www.codewars.com/users/AllanCarelli/badges/micro">
+
 # Contact
 <a href="https://www.linkedin.com/in/allan-carelli-nunes" target="_blank" rel="noopener noreferrer"><img src="https://logos.hunter.io/linkedin.com" width="64" height="64" alt="LinkedIn"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=allan.nunes.carelli@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="64" height="64" alt="Enviar e-mail" /></a>
+
+
