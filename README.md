@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FF8200&height=180&section=header&text=Allan%20Carelli&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Software%20developer&descSize=18&descAlignY=58" alt="Allan Carelli" width="100%" />
-<br />
+<br>
+  <img src="https://www.codewars.com/users/AllanCarelli/badges/micro">
 </div>
 
 # Resume about me
@@ -12,7 +13,7 @@ I did 1 year of english course in Wizard and keep praticing.
 <img src="https://skillicons.dev/icons?i=python,java,mysql,vscode&perline=5" alt="Python, Java, MySQL, VS Code" />
 </div>
 
-<img src="https://www.codewars.com/users/AllanCarelli/badges/micro">
+
 
 # Contact
 <a href="https://www.linkedin.com/in/allan-carelli-nunes" target="_blank" rel="noopener noreferrer"><img src="https://logos.hunter.io/linkedin.com" width="64" height="64" alt="LinkedIn"/></a>
